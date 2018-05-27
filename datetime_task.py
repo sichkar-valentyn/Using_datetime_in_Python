@@ -1,3 +1,16 @@
+# File: Using_datetime_in_Python.py
+# Description: Using datetime in Python
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# ### Reference to:
+# [1] Valentyn N Sichkar. Using datetime in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Using_datetime_in_Python (date of access: XX.XX.XXXX)
+
+
+
 # Implementing the task with module datetime
 import datetime
 
